@@ -1,7 +1,7 @@
 # FALCON (Feedback-Based Autonomy, Learning, and Control) Lab
 
-University of California, San Diego
---
+## University of California, San Diego
+
 <p align="center">
   <img src="assets/inception-lab-logo.png" alt="Inception Lab" width="500">
 </p>
@@ -15,6 +15,7 @@ University of California, San Diego
 - **Nonlinear and Hybrid Control**
 - **Autonomous Systems**
 - **Optimization**
+  Our lab focuses on the theory and application of hybrid-dynamic and nonlinear systems. The work of the lab encompasses model-free optimization, game theory, power systems, and network optimzation.
 
 ---
 
