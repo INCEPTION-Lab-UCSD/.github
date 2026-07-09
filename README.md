@@ -15,6 +15,7 @@
 - **Nonlinear and Hybrid Control**
 - **Autonomous Systems**
 - **Optimization**
+
   Our lab focuses on the theory and application of hybrid-dynamic and nonlinear systems. The work of the lab encompasses model-free optimization, game theory, power systems, and network optimzation.
 
 ---
