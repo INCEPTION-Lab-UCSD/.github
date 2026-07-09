@@ -1,7 +1,7 @@
 # FALCON (Feedback-Based Autonomy, Learning, and Control) Lab
 
 **University of California, San Diego**
-
+--
 <p align="center">
   <img src="assets/inception-lab-logo.png" alt="Inception Lab" width="500">
 </p>
