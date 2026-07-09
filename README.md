@@ -13,4 +13,4 @@ Official GitHub for the FALCON Laboratory at the University of California, San D
 
 ## Publications
 
-Publications are available at [publications page](https://poveda.ucsd.edu/publications)(#).
+Publications are available at our [publications page](https://poveda.ucsd.edu/publications).
