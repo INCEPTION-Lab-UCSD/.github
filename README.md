@@ -27,4 +27,4 @@
 
 ## Publications
 
-## Publications are available at our [publications page](https://poveda.ucsd.edu/publications).
+Publications are available at our [publications page](https://poveda.ucsd.edu/publications).
