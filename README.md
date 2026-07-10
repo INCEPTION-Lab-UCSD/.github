@@ -1,4 +1,4 @@
-# FALCON (Feedback-Based Autonomy, Learning, and Control) Lab
+# INCEPTION (Intelligence, Control, and Adaptation) Lab
 
 ## University of California, San Diego
 
@@ -7,8 +7,6 @@
 </p>
 
 ---
-
-## Official GitHub for the FALCON Laboratory at the University of California, San Diego.
 
 ## Research Focus
 
